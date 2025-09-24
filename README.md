@@ -24,12 +24,12 @@ Você pode acessar o portfólio de duas formas:
 - **Flexbox** – organizar e alinhar elementos 
 - **GitHub Pages** – hospedagem gratuita do portfólio  
 
-## 📂 Estrutura do Projeto
+📂 Estrutura do Projeto
 /
-├── index.html # Página principal do portfólio
-├── style.css # Arquivo de estilos
-├── imagens/ # Fotos e imagens dos projetos e perfil
-└── README.md # Este arquivo
+├── index.html        # Página principal do portfólio
+├── style.css         # Arquivo de estilos
+├── imagens/          # Fotos e imagens dos projetos e perfil
+└── README.md         # Este arquivo
 
 ## 🖥️ Funcionalidades
 - **Seção Sobre Mim**: foto, descrição, informações pessoais/profissionais, objetivos, curiosidades e habilidades.  
