@@ -13,7 +13,8 @@ Você pode acessar o site hospedado no GitHub Pages:
 
 ## 🛠️ Tecnologias Utilizadas
 - **HTML5** – estrutura do site  
-- **CSS3** – estilização e responsividade  
+- **CSS3** – estilização e responsividade
+- **Google Fonts** - utilizado para aplicar fontes externas no projeto  
 - **Font Awesome** – ícones do menu e contatos  
 - **GitHub Pages** – hospedagem gratuita do portfólio  
 
