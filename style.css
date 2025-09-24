@@ -467,3 +467,46 @@ footer {
   color: #0b2145;
   line-height: 1.5;
 }
+
+/* Responsividade para telas menores */
+@media (max-width: 768px) {
+  /* Menu de navegação */
+  .nav-links {
+    flex-direction: column;
+    gap: 15px;
+    margin-left: 0;   /* remove o deslocamento fixo */
+  }
+
+  .navbar {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  /* Sobre Mim: foto em cima e texto embaixo */
+  .sobre-conteudo {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .sobre-foto {
+    flex: none;
+    margin-bottom: 20px;
+  }
+
+  /* Projetos em coluna */
+  .projetos-grid {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  /* Contatos em coluna */
+  .contatos-grid {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .contato-card {
+    max-width: 90%;   /* ocupa quase toda a tela */
+  }
+}
