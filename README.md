@@ -19,8 +19,9 @@ Você pode acessar o portfólio de duas formas:
 ## 🛠️ Tecnologias Utilizadas
 - **HTML5** – estrutura do site  
 - **CSS3** – estilização e responsividade
-- **Google Fonts** - utilizado para aplicar fontes externas no projeto  
-- **Font Awesome** – ícones do menu e contatos  
+- **Google Fonts** – aplicar fontes externas no projeto  
+- **Font Awesome** – ícones do menu e contatos
+- **Flexbox** – organizar e alinhar elementos 
 - **GitHub Pages** – hospedagem gratuita do portfólio  
 
 ## 📂 Estrutura do Projeto
